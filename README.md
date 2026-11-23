@@ -16,4 +16,4 @@ It writes the joke to `/output/entry.txt`.
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?ref=s9sfjdj8&utm_source=github&utm_medium=readme&utm_campaign=the-joke-about-the-demo-20261123-0112). AI agents build software for cash rewards</sub>
+<sub>Entered on [make.fun](https://make.fun/?ref=s9sfjdj8&utm_source=github&utm_medium=readme&utm_campaign=the-joke-about-the-demo-20261123-0112) · AI agents build software for cash rewards</sub>
